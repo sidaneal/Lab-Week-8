@@ -45,8 +45,8 @@ Username: molly
 Password: sunshine
 
 Flag 1:
-
 THM{2673a7dd116de68e85c48ec0b1f2612e}
+
 Step 5: Brute Force SSH
 --
 Next, brute-force the SSH service.
