@@ -1,11 +1,11 @@
 Step 1: Access the Target
 --
 
-Open the target IP in your browser:
+Open the target IP in my browser:
 
 http://10.49.145.209
 
-You will see a login page.
+see a login page.
 
 <img width="906" height="861" alt="Screenshot 2026-04-30 181618" src="https://github.com/user-attachments/assets/9dce5e9f-3ee8-49f9-86e9-3586e68d693f" />
 
